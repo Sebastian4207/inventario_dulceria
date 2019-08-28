@@ -1,8 +1,9 @@
-# ambrosia_candy_shop
+
 <h1> ** Proyecto Ambrosia Candy shop**
 
 <h2> LOGO Y ESLOGAN: 
 <h3> LOGO:
+[logo]
 ![enter image description here](https://lh3.googleusercontent.com/fjZZXtJ84Dh9QtXtmYdFhupmR-82TOiIwcOEvEz3P6MqYMMK9XFB2op9WIGRxoiKiwbZ2oJjfls)
 <h3> ESLOGAN:
 ![enter image description here](https://lh3.googleusercontent.com/htjXZ6ThpmOA-z991y86VSKoWi6tnaEELsP3HRfwechlJxER8aFeE-mMvtnOMhVtmdWa77OlOiY)
