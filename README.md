@@ -2,16 +2,9 @@
 
 <h2> LOGO Y ESLOGAN:
 <h3> LOGO:
-[logo]
-![enter image description
-here](https://lh3.googleusercontent.com/fjZZXtJ84Dh9QtXtmYdFhupmR-
-82TOiIwcOEvEz3P6MqYMMK9XFB2op9WIGRxoiKiwbZ2oJjfls) [logo
-&lt;h3&gt; 
+![enter image description here](https://lh3.googleusercontent.com/xh2E2-E2egcP19MMYCp7q9I96DJ5WQQtNJKZfbLN1BlZwtHLCKaf8HTpAzf9Z5RNii6rwxAl-VXk)
 <h3>ESLOGAN:
-[logo]
-![enter image description here](https://lh3.googleusercontent.com/htjXZ6ThpmOA-
-z991y86VSKoWi6tnaEELsP3HRfwechlJxER8aFeE-mMvtnOMhVtmdWa77OlOiY)
-[logo]
+![enter image description here](https://lh3.googleusercontent.com/lqXs2p9yPH9J87hhg4Fvd2SQXw5LEb8CtCxjx6RVLRMzrm8HhFOR-X5_KwRwf0xqoXMGQkFJ-lCY)
 <h3>SIGNIFICADO: El significado de mi eslogan se refiere a que todos tenemos tentaciones, y
 cuando las realizamos sentimos placer, y muchas veces nos privamos de ellas ya sea por creencias,
 ideologías o dogmas que nos implanta el sistema, y creo que deberíamos dejarnos llevar por ellas,
